@@ -2,7 +2,7 @@
 
 Thats is my brand new Github. I was using it on my previous company email 😅
 
-I will use this as a learning space, where i will post the things i'm studying and things i find cool 
+I will use this as a learning space, where i will post the things i'm studying, my learning projects, and things i just find cool. 
 
 - 🔭 I’m currently working on Buser
 - 🌱 I’m currently learning backend languages and devops
