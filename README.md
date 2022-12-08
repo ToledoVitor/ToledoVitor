@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thats is my brand new Github. I was using the it on my previous company email 😅
+Thats is my brand new Github. I was using it on my previous company email 😅
 
 I will use this as a learning space, where i will post the things i'm studying and things i find cool 
 
