@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github. I was not using very much on the past, triyng to change it now 😅
+Welcome to my Github.
 
 I will use this as a learning space, where I will post the things I'm studying, my learning projects, and things I just find cool. 
 
