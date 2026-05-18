@@ -32,3 +32,5 @@ Some recent work includes:
 
 * LinkedIn: linkedin.com/in/vitorstoledo
 * Email: pr.vitortoledo@gmail.com
+
+[![ToledoVitor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ToledoVitor&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
