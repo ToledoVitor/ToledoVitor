@@ -1,36 +1,29 @@
 # Hi, I'm Vitor 👋
 
-Senior Fullstack Engineer focused on scalable backend systems, data platforms, and AI-driven applications.
+Senior Fullstack Engineer. I build data-intensive, AI-powered products — backends that move millions of records and serve thousands of requests a second, plus the LLM workflows that sit on top of them.
 
-Currently working with:
+I care about systems that hold up under load: tested code, real observability, and migrations that don't wake anyone at 3am.
 
-* Python (FastAPI, Django)
-* React / TypeScript
-* Data & AI workflows (LangChain, Prefect, Databricks)
-* Cloud infrastructure (GCP, Azure)
-* Distributed systems and microservices
+### What I've shipped
 
-## Experience
+- ⚡ Scaled a migration pipeline from **10K → 3M records/hour**
+- 🚀 Built microservices sustaining **5,000+ req/sec**
+- 🧠 Developed AI-driven research & analysis workflows for a **~$39B AUM** private equity environment
+- 🏥 Across healthcare, e-commerce, mobility, and investment research
 
-I've worked across healthcare, e-commerce, mobility, and investment research platforms, building systems ranging from high-throughput APIs to AI-assisted analytics pipelines.
+### Tech I reach for
 
-Some recent work includes:
+**Backend** · Python (FastAPI, Django), PostgreSQL, distributed systems & microservices
+**Frontend** · React, TypeScript
+**Data & AI** · LangChain, Prefect, Databricks, LLM pipelines
+**Cloud & Ops** · GCP, Azure, OpenTelemetry-based observability
 
-* Scaling a migration pipeline from **10K → 3M records/hour**
-* Building microservices handling **5,000+ req/sec**
-* Developing AI-driven research and analysis workflows for a **~$39B AUM private equity environment**
+### What I'm digging into now
 
-## Current Interests
+Data-intensive architectures · LLM workflows in production · system design at scale · developer tooling & platform engineering
 
-* Distributed systems
-* AI applications & LLM workflows
-* Data-intensive architectures
-* System design & scalability
-* Developer tooling and platform engineering
+### Reach me
 
-## To reach me:
+[LinkedIn](https://linkedin.com/in/vitorstoledo) · pr.vitortoledo@gmail.com
 
-* LinkedIn: linkedin.com/in/vitorstoledo
-* Email: pr.vitortoledo@gmail.com
-
-[![ToledoVitor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ToledoVitor&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vitor's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ToledoVitor&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
