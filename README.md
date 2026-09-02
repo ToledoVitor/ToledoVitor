@@ -145,20 +145,3 @@ and migrations that don't wake anyone at 3am.
 | **Data & AI** | LLM systems, computer vision, OpenAI API, LangChain, Prefect, Databricks |
 | **Cloud & Ops** | GCP, Azure, Docker, CI/CD, OpenTelemetry |
 
-### Recent activity
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ToledoVitor/ToledoVitor/output/activity-graph-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ToledoVitor/ToledoVitor/output/activity-graph-light.svg"
-  >
-  <img
-    width="100%"
-    alt="Vitor Toledo's recent GitHub activity"
-    src="https://raw.githubusercontent.com/ToledoVitor/ToledoVitor/output/activity-graph-light.svg"
-  >
-</picture>
